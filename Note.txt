@@ -1,0 +1,8 @@
+
+Typing the thunkApi Object:
+here an linke to get Information About that:
+
+https://redux-toolkit.js.org/usage/usage-with-typescript#typing-the-thunkapi-object
+-----------------------------------------
+News API : link for that :
+https://newsapi.org/
